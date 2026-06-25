@@ -1,0 +1,25 @@
+class Solution {
+    // int solve(vector<int>&nums, int target, int start, int end){
+
+    // }
+public:
+    int countMajoritySubarrays(vector<int>& nums, int target) {
+        int n = nums.size();
+        int result = 0;
+
+        for (int i = 0; i < n; ++i) {
+            int count = 0;
+
+            for (int j = i; j < n; ++j) {
+                count += (nums[j] == target ? 1 : -1);
+
+                if (count > 0) {
+                    result++;
+                }
+
+            }
+        }
+
+        return result;
+    }
+};
