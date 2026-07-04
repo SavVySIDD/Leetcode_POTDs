@@ -114,6 +114,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0994-rotting-oranges) |
@@ -137,11 +138,13 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -184,6 +187,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
