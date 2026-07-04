@@ -112,10 +112,12 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -129,6 +131,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -172,4 +175,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0002-add-two-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
