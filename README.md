@@ -44,6 +44,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0160-intersection-of-two-linked-lists) |
@@ -56,6 +57,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -118,6 +120,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
