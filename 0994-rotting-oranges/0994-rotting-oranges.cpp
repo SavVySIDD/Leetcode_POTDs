@@ -20,14 +20,12 @@ public:
             int t = q.front().second;
             q.pop();
             for(int i=0;i<4;i++){
-                for(int j=0;j<4;j++){
-                    int newX = x+dx[i];
-                    int newY = y+dy[i];
-                    while(newX>=0 && newX<n && newY>=0 && newY<m && grid[newX][newY]==1){
-                        grid[newX][newY]=2;
-                        q.push({{newX,newY},t+1});
-                        freshCount--;
-                    }
+                int newX = x+dx[i];
+                int newY = y+dy[i];
+                while(newX>=0 && newX<n && newY>=0 && newY<m && grid[newX][newY]==1){
+                    grid[newX][newY]=2;
+                    q.push({{newX,newY},t+1});
+                    freshCount--;
                 }
             }
             res = max(res,t);
