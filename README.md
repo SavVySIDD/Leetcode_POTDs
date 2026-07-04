@@ -7,6 +7,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0136-single-number) |
+| [0994-rotting-oranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1207-unique-number-of-occurrences) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
@@ -113,6 +114,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -127,6 +129,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
