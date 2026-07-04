@@ -77,6 +77,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0002-add-two-numbers) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -140,6 +141,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
@@ -166,5 +168,6 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
