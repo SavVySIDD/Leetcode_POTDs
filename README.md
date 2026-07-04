@@ -134,4 +134,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
