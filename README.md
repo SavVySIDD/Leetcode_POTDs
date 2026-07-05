@@ -209,6 +209,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -219,6 +220,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0200-number-of-islands) |
@@ -233,9 +235,11 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
