@@ -10,6 +10,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0136-single-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0994-rotting-oranges) |
@@ -227,6 +228,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0145-binary-tree-postorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -290,4 +292,5 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
