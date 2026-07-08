@@ -12,6 +12,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -83,6 +85,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -94,6 +97,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
@@ -126,6 +130,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
