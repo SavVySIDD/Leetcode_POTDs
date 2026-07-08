@@ -8,6 +8,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0001-two-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
@@ -244,6 +245,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
