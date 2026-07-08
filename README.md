@@ -9,6 +9,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0001-two-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
@@ -92,6 +93,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
@@ -233,6 +235,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0160-intersection-of-two-linked-lists) |
