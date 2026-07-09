@@ -8,7 +8,7 @@ public:
         for (int num : nums) {
             sum += num;
 
-            if (prefixSumCount.find(sum - k) != prefixSumCount.end()) {
+            if (prefixSumCount.count(sum - k)) {
                 count += prefixSumCount[sum - k];
             }
 
