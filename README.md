@@ -11,6 +11,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0031-next-permutation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0130-surrounded-regions) |
@@ -66,6 +67,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
@@ -200,6 +202,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
