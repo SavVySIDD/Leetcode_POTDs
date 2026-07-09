@@ -62,6 +62,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -89,6 +90,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0160-intersection-of-two-linked-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0930-binary-subarrays-with-sum) |
@@ -104,6 +106,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
