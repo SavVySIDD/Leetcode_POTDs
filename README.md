@@ -8,6 +8,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0001-two-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
@@ -111,6 +112,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0229-majority-element-ii) |
@@ -260,6 +262,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0031-next-permutation) |
