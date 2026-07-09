@@ -63,6 +63,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0992-subarrays-with-k-different-integers) |
@@ -86,6 +87,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0001-two-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
@@ -108,6 +110,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
