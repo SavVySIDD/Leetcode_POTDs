@@ -59,6 +59,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
@@ -74,6 +75,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
@@ -93,6 +95,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
