@@ -3,18 +3,19 @@ public:
     string minWindow(string s, string t) {
         int n = s.size(), m = t.size();
         if(m>n) return "";
-        unordered_map<char,int> mp;
-        for(char c:t){
-            mp[c]++;
-        }
-        int left=0,right=0,count=0;
-        int minLen = INT_MAX, sInd=-1;
+        unordered_map<int,int>mp;
+        for(auto&it:t) mp[it]++;
+        int left = 0;
+        int right = 0;
+        int count =0;
+        int sInd =-1;
+        int mini =INT_MAX;
         while(right<n){
-            if(mp[s[right]]>0) count+=1;
+            if(mp[s[right]]>0) count++;
             mp[s[right]]--;
-            while(count==m){
-                if(right-left+1 < minLen){
-                    minLen = right-left+1;
+            while(count == m){
+                if(right-left+1 < mini){
+                    mini =right-left+1;
                     sInd = left;
                 }
                 mp[s[left]]++;
@@ -23,6 +24,6 @@ public:
             }
             right++;
         }
-        return sInd == -1? "" : s.substr(sInd, minLen);
+        return sInd==-1?"":s.substr(sInd,mini);
     }
 };
