@@ -11,6 +11,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0018-4sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0054-spiral-matrix) |
@@ -57,6 +58,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
