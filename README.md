@@ -59,6 +59,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -77,6 +78,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0875-koko-eating-bananas](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
@@ -124,6 +126,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1207-unique-number-of-occurrences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -252,6 +255,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1020-number-of-enclaves](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -280,6 +284,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0802-find-eventual-safe-states](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0802-find-eventual-safe-states) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
