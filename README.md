@@ -31,6 +31,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0503-next-greater-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0930-binary-subarrays-with-sum) |
@@ -56,6 +57,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
