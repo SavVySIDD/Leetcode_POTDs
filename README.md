@@ -32,6 +32,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0485-max-consecutive-ones) |
@@ -80,6 +81,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0704-binary-search) |
@@ -219,6 +221,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -284,6 +287,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0074-search-a-2d-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0994-rotting-oranges) |
