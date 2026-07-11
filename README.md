@@ -194,6 +194,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -204,6 +205,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
@@ -436,4 +438,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0054-spiral-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
