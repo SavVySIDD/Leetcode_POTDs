@@ -46,6 +46,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0704-binary-search](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0992-subarrays-with-k-different-integers) |
@@ -170,6 +171,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
