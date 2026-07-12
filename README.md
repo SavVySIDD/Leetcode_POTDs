@@ -17,6 +17,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0074-search-a-2d-matrix) |
@@ -170,6 +171,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
@@ -213,6 +215,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0198-house-robber) |
