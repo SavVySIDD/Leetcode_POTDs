@@ -73,6 +73,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -401,6 +402,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
 |  |
 | ------- |
@@ -468,6 +470,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
