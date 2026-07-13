@@ -42,6 +42,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0485-max-consecutive-ones) |
@@ -242,6 +243,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0124-binary-tree-maximum-path-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
