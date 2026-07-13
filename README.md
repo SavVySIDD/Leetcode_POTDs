@@ -45,6 +45,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0540-single-element-in-a-sorted-array) |
@@ -242,6 +243,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0198-house-robber](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0907-sum-of-subarray-minimums) |
@@ -495,4 +497,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
