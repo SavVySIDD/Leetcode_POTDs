@@ -3,32 +3,25 @@ public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
         int n =asteroids.size();
         stack<int>st;
+        vector<int>res;
         for(auto& it:asteroids){
             bool destroyed = false;
-            while(!st.empty() && st.top()>=0 && it<0){
-                int sum = st.top()+it;
+            while(res.size()!=0 && res.back()>=0 && it<0){
+                int sum = res.back()+it;
                 if(sum<0){ //negative greater
-                    st.pop();
+                    res.pop_back();
                 }
                 else if(sum>0){ //positive greater
                     destroyed= true;
                     break;
                 }
                 else{//sum==0 
-                    st.pop();
+                    res.pop_back();
                     destroyed=true;
                     break;
                 }
             }
-            if(!destroyed) st.push(it);
-        }
-        int s = st.size();
-        vector<int> res(s);
-        int i = s-1;
-        while(!st.empty()) {
-            res[i] = st.top();
-            st.pop();
-            i--;
+            if(!destroyed) res.push_back(it);
         }
         return res;
     }
