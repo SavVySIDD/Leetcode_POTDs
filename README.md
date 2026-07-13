@@ -40,6 +40,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
@@ -180,6 +181,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0055-jump-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0860-lemonade-change) |
@@ -196,6 +198,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0088-merge-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1288-remove-covered-intervals) |
@@ -229,6 +232,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
