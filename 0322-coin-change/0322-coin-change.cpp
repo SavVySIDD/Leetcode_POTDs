@@ -8,9 +8,9 @@ class Solution {
         int take = INT_MAX;
 
         if(coins[ind]<=amount){
-            int res = solve(coins,amount-coins[ind],ind);
+            int res = solve(coins,amount-coins[ind],ind); //Here notice the index is not changing
             if(res!=INT_MAX){
-                take = 1+res;
+                take = 1+res;//That is why we keep on using the same coin and 
             }
         }
 
