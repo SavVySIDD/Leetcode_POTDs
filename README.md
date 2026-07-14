@@ -83,6 +83,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
@@ -228,6 +229,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -253,6 +255,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0907-sum-of-subarray-minimums) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -508,4 +511,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
