@@ -51,8 +51,8 @@ public:
 
         if(!root) return false;
 
-        BSTIterator l(root, false);
-        BSTIterator r(root, true);
+        BSTIterator l(root, false); // gets the next element
+        BSTIterator r(root, true); //gets the previous element
 
         int left = l.next();
         int right = r.next();
