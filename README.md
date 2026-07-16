@@ -28,6 +28,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0135-candy) |
@@ -143,6 +144,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
@@ -270,6 +272,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -474,6 +477,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0102-binary-tree-level-order-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0144-binary-tree-preorder-traversal) |
@@ -498,6 +502,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0102-binary-tree-level-order-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0144-binary-tree-preorder-traversal) |
