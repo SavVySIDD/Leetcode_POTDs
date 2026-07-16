@@ -259,6 +259,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0907-sum-of-subarray-minimums) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
@@ -467,6 +468,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0802-find-eventual-safe-states](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1020-number-of-enclaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2685-count-the-number-of-complete-components) |
@@ -497,6 +499,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0701-insert-into-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -524,6 +527,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0701-insert-into-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -565,6 +569,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0700-search-in-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
 | ------- |
