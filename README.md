@@ -76,6 +76,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
@@ -113,6 +114,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -324,6 +326,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1020-number-of-enclaves](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -335,6 +338,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -342,6 +346,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -360,6 +365,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0994-rotting-oranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
@@ -478,6 +484,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1020-number-of-enclaves](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2685-count-the-number-of-complete-components) |
 ## Tree
