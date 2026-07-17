@@ -87,6 +87,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -116,6 +117,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1539-kth-missing-positive-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
@@ -138,6 +140,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0930-binary-subarrays-with-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -168,6 +171,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1331-rank-transform-of-an-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -191,6 +195,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0229-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -238,6 +243,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -571,6 +577,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -596,4 +603,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0173-binary-search-tree-iterator) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
