@@ -16,7 +16,8 @@ public:
             auto [row, col] = rc;
             pq.pop();
             if(row==n-1 && col ==m-1) return diff;
-
+            if(diff > dist[row][col])
+                continue;
             for(int i=0;i<4;i++){
                 int nx = row+dx[i];
                 int ny = col+dy[i];
