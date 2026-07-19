@@ -6,9 +6,10 @@ public:
         for(auto&it:nums){
             mp[it]++;
         }
-        priority_queue<P, vector<P>>pq;
+        priority_queue<P, vector<P>, greater<P>>pq;
         for(auto&it:mp){
             pq.push({it.second,it.first});
+            if(pq.size()>k) pq.pop();
         }
         vector<int>res;
         while(k--){
