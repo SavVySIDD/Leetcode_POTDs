@@ -4,13 +4,10 @@ class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         int n = nums.size();
-        
         unordered_map<int, int> mp;
-        
         for(int &num : nums) {
             mp[num]++;
         }
-        
         //index = frequency
         //Value will be elements
         //bucket[i] = elements occuring ith time
@@ -34,10 +31,8 @@ public:
                 result.push_back(bucket[i].back());
                 bucket[i].pop_back();
                 k--;
-            }
-            
+            }   
         }
-        
         return result;
     }
 };
