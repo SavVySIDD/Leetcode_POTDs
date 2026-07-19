@@ -82,6 +82,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -214,6 +215,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0860-lemonade-change](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -360,6 +362,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0295-find-median-from-data-stream](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0451-sort-characters-by-frequency) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
 ## Matrix
