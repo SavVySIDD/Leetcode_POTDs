@@ -16,7 +16,7 @@ public:
         long long curr_time = 0;
         int idx             = 0;
         
-        priority_queue< pair<int, int>, vector<pair<int, int>>, greater<> > pq; //min_heap
+        priority_queue< pair<int, int>, vector<pair<int, int>>, greater<pair<int,int>> > pq; //min_heap
         
         while(idx < n || !pq.empty()) {
             
