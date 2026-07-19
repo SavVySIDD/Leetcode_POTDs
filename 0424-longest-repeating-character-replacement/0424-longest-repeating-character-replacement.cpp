@@ -11,6 +11,7 @@ public:
             maxF = max(maxF,mp[curr]);
             if(right-left+1>maxF+k){
                 mp[s[left]]--;
+                if(mp[s[left]]==0) mp.erase(s[left]);
                 maxF=0;
                 for(auto&it:mp) maxF = max(maxF,it.second);
                 left++;
