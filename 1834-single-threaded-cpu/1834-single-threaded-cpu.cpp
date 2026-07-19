@@ -30,7 +30,7 @@ public:
                 idx++;
             }
             
-            pair<int, int> curr_task = pq.top();
+            auto curr_task = pq.top();
             pq.pop();
             
             curr_time += curr_task.first; //processing time
