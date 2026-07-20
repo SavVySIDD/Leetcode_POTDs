@@ -9,7 +9,8 @@ public:
             int sell = prices[r];
             if(sell<buy){
                 l =r;
-                sell = buy;
+                // sell = buy;
+                buy = sell;
             }
             res = max(res,sell-buy);
         }
