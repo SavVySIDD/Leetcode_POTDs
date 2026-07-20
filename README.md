@@ -75,6 +75,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1046-last-stone-weight](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -417,6 +418,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0994-rotting-oranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -619,6 +621,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0054-spiral-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
