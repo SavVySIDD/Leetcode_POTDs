@@ -8,6 +8,7 @@ public:
             mp[it]++;
         }
         while(!mp.empty()){
+            // Now mp.begin() returns the iterator that points to the pair that is why we have to use ->
             int curr = mp.begin()->first;
             for(int i=0;i<groupSize;i++){
                 if(!mp.count(curr+i)) return false;
