@@ -308,6 +308,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
@@ -323,6 +324,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
@@ -375,6 +377,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0451-sort-characters-by-frequency) |
@@ -437,6 +440,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0002-add-two-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
