@@ -10,7 +10,7 @@ public:
         while(!mp.empty()){
             int curr = mp.begin()->first;
             for(int i=0;i<groupSize;i++){
-                if(mp[curr+i]<=0) return false;
+                if(!mp.count(curr+i)) return false;
                 mp[curr+i]--;
                 if(mp[curr+i]<1) mp.erase(curr+i);
             }
