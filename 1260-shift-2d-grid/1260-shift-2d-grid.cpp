@@ -1,9 +1,18 @@
 class Solution {
 public:
 
-    void reverse(vector<int> &arr, int left, int right){
-        while(left < right){
-            swap(arr[left], arr[right]);
+    void reverse(vector<vector<int>>& grid, int left, int right, int cols) {
+
+        while(left < right) {
+
+            int r1 = left / cols;
+            int c1 = left % cols;
+
+            int r2 = right / cols;
+            int c2 = right % cols;
+
+            swap(grid[r1][c1], grid[r2][c2]);
+
             left++;
             right--;
         }
@@ -11,33 +20,15 @@ public:
 
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
 
-        int m = grid.size();
-        int n = grid[0].size();
+        int rows = grid.size();
+        int cols = grid[0].size();
 
-        vector<int> arr;
+        int total = rows * cols;
+        k %= total;
 
-        // Flatten the grid
-        for(auto &row : grid){
-            for(auto &x : row){
-                arr.push_back(x);
-            }
-        }
-
-        int size = arr.size();
-        k %= size;
-
-        // Right rotate by k
-        reverse(arr, 0, size - 1);
-        reverse(arr, 0, k - 1);
-        reverse(arr, k, size - 1);
-
-        // Put elements back into grid
-        int idx = 0;
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                grid[i][j] = arr[idx++];
-            }
-        }
+        reverse(grid, 0, total - 1, cols);
+        reverse(grid, 0, k - 1, cols);
+        reverse(grid, k, total - 1, cols);
 
         return grid;
     }
