@@ -10,7 +10,7 @@ public:
             int highEle = matrix[high/cols][high%cols];
             int currEle = matrix[mid/cols][mid%cols];
             if (currEle== target) return true;
-            if(lowEle<= target && target< currEle){
+            if( target< currEle){
                 high = mid-1;
             }
             else{
