@@ -92,6 +92,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1901-find-a-peak-element-ii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2104-sum-of-subarray-ranges) |
@@ -130,6 +131,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -428,6 +430,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1260-shift-2d-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
