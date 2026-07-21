@@ -19,10 +19,11 @@ public:
             int maxRow = find(mat,mid);
             int left = (mid == 0) ? -1 : mat[maxRow][mid - 1];
             int right = (mid == m - 1) ? -1 : mat[maxRow][mid + 1];
-            if(mat[maxRow][mid]>left && mat[maxRow][mid]>right){
+            int currEle = mat[maxRow][mid];
+            if(currEle>left && currEle>right){
                 return {maxRow,mid};
             }
-            else if(mat[maxRow][mid]>left){
+            else if(currEle>left){
                 lowCol = mid+1;
             }
             else{
