@@ -12,7 +12,7 @@ class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
         total = accumulate(nums.begin(), nums.end(), 0);
-        dp.assign(nums.size(),vector<int>(2*total+1,-1));
+        dp.resize(nums.size(),vector<int>(2*total+1,-1));
         return solve(nums,target,0,0);
     }
 };
