@@ -118,6 +118,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0493-reverse-pairs) |
@@ -329,6 +330,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0222-count-complete-tree-nodes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -584,6 +586,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0145-binary-tree-postorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0450-delete-node-in-a-bst) |
@@ -613,6 +616,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0145-binary-tree-postorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0450-delete-node-in-a-bst) |
