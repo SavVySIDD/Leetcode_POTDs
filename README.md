@@ -206,6 +206,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0402-remove-k-digits) |
@@ -238,6 +239,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0135-candy) |
@@ -305,6 +307,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0055-jump-game) |
@@ -548,6 +551,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0002-add-two-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
 |  |
