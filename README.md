@@ -380,6 +380,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0802-find-eventual-safe-states) |
@@ -563,6 +564,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0543-diameter-of-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0802-find-eventual-safe-states) |
@@ -599,6 +601,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0450-delete-node-in-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -631,6 +634,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0450-delete-node-in-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0703-kth-largest-element-in-a-stream) |
