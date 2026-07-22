@@ -103,6 +103,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
@@ -136,6 +137,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1901-find-a-peak-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
@@ -218,6 +220,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -351,6 +354,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0493-reverse-pairs) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
