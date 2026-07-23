@@ -7,6 +7,7 @@ long getAns(vector<int>&Arr, int ind, int buy, int n, vector<vector<long>> &dp) 
     if (dp[ind][buy] != -1) return dp[ind][buy];
     long profit = 0;
     if (buy == 0) { // We can buy the stock
+        // basically the two cases are take and not take
         profit = max(0 + getAns(Arr, ind + 1, 0, n, dp), -Arr[ind] + getAns(Arr, ind + 1, 1, n, dp));
     }
     if (buy == 1) { // We can sell the stock
