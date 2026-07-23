@@ -90,6 +90,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1539-kth-missing-positive-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1765-map-of-highest-peak](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
@@ -412,6 +413,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1091-shortest-path-in-binary-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1765-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -464,6 +466,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1260-shift-2d-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1765-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
