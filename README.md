@@ -268,6 +268,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0056-merge-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0295-find-median-from-data-stream) |
@@ -351,6 +352,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0023-merge-k-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0347-top-k-frequent-elements) |
@@ -368,6 +370,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -496,6 +499,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
@@ -517,6 +521,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0088-merge-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
