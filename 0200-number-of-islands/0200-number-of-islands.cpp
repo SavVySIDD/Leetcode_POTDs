@@ -1,15 +1,15 @@
 class Solution {
     void dfs(int r, int c, vector<vector<int>>& vis, vector<vector<char>>& grid){
-        vis[r][c]=1;
+        vis[r][c] =1;
         int n = grid.size(), m = grid[0].size();
-        int drow[]={-1,0,1,0};
-        int dcol[]={0,-1,0,1};
+        int dx[] = {-1,1,0,0};
+        int dy[] = {0,0,1,-1};
+
         for(int i=0;i<4;i++){
-            int nrow = r+drow[i];
-            int ncol = c+dcol[i];
-            while(nrow>=0 && nrow < n && ncol>=0 && ncol<m && !vis[nrow][ncol]
-            && grid[nrow][ncol]=='1'){
-                dfs(nrow,ncol,vis,grid);
+            int nx = r+dx[i];
+            int ny = c+dy[i];
+            if(nx>=0 && nx<n && ny>=0 && ny<m && grid[nx][ny]=='1' && !vis[nx][ny]){
+                dfs(nx,ny,vis,grid);
             }
         }
     }
