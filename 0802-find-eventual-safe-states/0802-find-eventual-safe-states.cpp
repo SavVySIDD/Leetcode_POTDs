@@ -19,7 +19,7 @@ public:
         for(int i=0;i<n;i++){
             dfs(graph,i,vis,visPath);
         }
-        for(int i =0;i<n;i++) if(visPath[i]!=1) res.push_back(i);
+        for(int i =0;i<n;i++) if(visPath[i]==0) res.push_back(i);
         return res;
     }
 };
