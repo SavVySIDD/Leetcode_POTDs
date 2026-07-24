@@ -1,38 +1,21 @@
-
-//Approach-2 (Using Bucket Sort) - TC : O(n) - We visit all elements of nums only once.
 class Solution {
+    typedef pair<int,int> P;
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        int n = nums.size();
-        unordered_map<int, int> mp;
-        for(int &num : nums) {
-            mp[num]++;
+        unordered_map<int,int>mp;
+        for(auto&it:nums){
+            mp[it]++;
         }
-        //index = frequency
-        //Value will be elements
-        //bucket[i] = elements occuring ith time
-        vector<vector<int>> bucket(n+1);
-        
-        for(auto &it : mp) {
-            int element = it.first;
-            int freq    = it.second;
-            
-            bucket[freq].push_back(element);
+        priority_queue<P, vector<P>, greater<P>>pq;
+        for(auto&it:mp){
+            pq.push({it.second,it.first});
+            if(pq.size()>k) pq.pop();
         }
-        
-        //Pick from right to left to find max frequency elements
-        vector<int> result;
-        for(int i = n; i >= 0; i--) {
-            
-            if(bucket[i].size() == 0) continue;
-            
-            int size = bucket.size();
-            while(bucket[i].size() > 0 && k > 0) {
-                result.push_back(bucket[i].back());
-                bucket[i].pop_back();
-                k--;
-            }   
+        vector<int>res;
+        while(k--){
+            res.push_back(pq.top().second);
+            pq.pop();
         }
-        return result;
+        return res;
     }
 };
