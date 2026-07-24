@@ -16,39 +16,30 @@ class Solution {
 
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-
-        if (!head || left == right)
-            return head;
-
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
-
-        // Reach node just before 'left'
-        ListNode* leftPrev = dummy;
-        for (int i = 1; i < left; i++)
-            leftPrev = leftPrev->next;
-
-        // First node of sublist
-        ListNode* subHead = leftPrev->next;
-
-        // Reach 'right' node
-        ListNode* rightNode = subHead;
-        for (int i = left; i < right; i++)
-            rightNode = rightNode->next;
-
-        // Store node after 'right'
-        ListNode* rightNext = rightNode->next;
-
-        // Detach the sublist
-        rightNode->next = nullptr;
-
-        // Reverse the detached sublist
-        ListNode* newHead = reverse(subHead);
-
-        // Reconnect
-        leftPrev->next = newHead;
-        subHead->next = rightNext;
-
-        return dummy->next;
+        if(!head || !head->next) return head;
+        ListNode*temp = head;
+        int k=1;
+        ListNode*prev = nullptr;
+        while(temp && k<left){ //get the left start of the ListNode
+            prev = temp;
+            temp = temp->next;
+            k++;
+        }
+        ListNode* leftStart = temp;
+        while(temp && k<right){
+            temp = temp->next;
+            k++;
+        }
+        ListNode* rightEnd = temp;
+        ListNode* nextNode = rightEnd->next;
+        rightEnd->next = nullptr;
+        reverse(leftStart);
+        if(left==1){ // head was also rotated
+            head = rightEnd;
+        }else{
+            if(prev)prev->next = rightEnd;
+        }
+        leftStart->next = nextNode;
+        return head;
     }
 };
