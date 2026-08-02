@@ -89,6 +89,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1331-rank-transform-of-an-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1463-cherry-pickup-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
@@ -301,6 +302,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1288-remove-covered-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
@@ -478,6 +480,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0743-network-delay-time](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1962-remove-stones-to-minimize-the-total) |
