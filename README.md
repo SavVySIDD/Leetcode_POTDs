@@ -52,6 +52,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
@@ -309,6 +310,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
@@ -340,6 +342,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0410-split-array-largest-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0518-coin-change-ii) |
@@ -602,6 +605,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0486-predict-the-winner) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -806,5 +810,6 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
