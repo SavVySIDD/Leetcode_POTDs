@@ -68,6 +68,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0852-peak-index-in-a-mountain-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0992-subarrays-with-k-different-integers) |
@@ -308,6 +309,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0380-insert-delete-getrandom-o1) |
+| [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -345,6 +347,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0583-delete-operation-for-two-strings](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0907-sum-of-subarray-minimums) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -800,4 +803,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0146-lru-cache) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
