@@ -62,6 +62,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0735-asteroid-collision) |
@@ -294,6 +295,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0451-sort-characters-by-frequency](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1288-remove-covered-intervals) |
@@ -321,6 +323,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
