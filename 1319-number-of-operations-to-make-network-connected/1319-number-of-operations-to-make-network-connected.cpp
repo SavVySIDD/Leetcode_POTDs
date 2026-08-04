@@ -51,6 +51,7 @@ public:
         for(int i=0;i<n;i++){
             if(ds.findUParent(i)==i) totComponents++;
         }
+        // totComponents-1 because we need edges = components-1 to connect
         if(extraEdge>=totComponents-1) return totComponents-1;
         return -1;
     }
