@@ -226,6 +226,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0451-sort-characters-by-frequency) |
@@ -620,6 +621,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0173-binary-search-tree-iterator](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0503-next-greater-element-ii) |
@@ -639,6 +641,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0486-predict-the-winner) |
 ## Depth-First Search
 |  |
