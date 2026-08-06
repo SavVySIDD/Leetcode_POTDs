@@ -22,7 +22,8 @@
 class Solution {
     TreeNode* solve(ListNode*head){
         if(!head) return nullptr;
-        if(!head->next) return new TreeNode(head->val);
+        // I missed this base case while solving
+        if(!head->next) return new TreeNode(head->val); 
         ListNode*slow = head;
         ListNode*fast = head;
         ListNode*prev = nullptr;
