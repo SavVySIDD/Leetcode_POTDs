@@ -32,7 +32,7 @@ class Solution {
             slow =slow->next;
             fast =fast->next->next;
         }
-        if(prev) prev->next = nullptr;
+        if(prev) prev->next = nullptr; // breaking the link
         TreeNode* root = new TreeNode(slow->val);
         root->left = solve(head);
         root->right = solve(slow->next);
