@@ -18,7 +18,7 @@ public:
         }
         if(fast!=slow) return NULL;
         slow = head;
-        if(slow == fast && slow!=NULL){
+        if(slow == fast ){
             return slow;
         }
         else{
