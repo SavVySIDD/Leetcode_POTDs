@@ -334,6 +334,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
@@ -581,6 +582,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0234-palindrome-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -845,6 +847,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0382-linked-list-random-node) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -867,4 +870,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
