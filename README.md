@@ -863,4 +863,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
