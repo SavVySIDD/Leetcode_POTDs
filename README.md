@@ -577,6 +577,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0024-swap-nodes-in-pairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -607,6 +608,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0142-linked-list-cycle-ii) |
