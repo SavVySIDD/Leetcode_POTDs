@@ -593,6 +593,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -619,6 +620,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0876-middle-of-the-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -644,6 +646,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
