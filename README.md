@@ -337,6 +337,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
@@ -589,6 +590,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0237-delete-node-in-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -638,6 +640,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0316-remove-duplicate-letters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
