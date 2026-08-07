@@ -18,14 +18,15 @@ public:
 
         while(head){
             if(head->val <x){
-                sTail->next = new ListNode(head->val);
+                sTail->next = head;
                 sTail = sTail->next;
             }else{
-                lTail->next = new ListNode(head->val);
+                lTail->next = head;
                 lTail = lTail->next;
             }
             head = head->next;
         }
+        lTail->next = nullptr;
         sTail->next = large->next;
         return small->next;
     }
