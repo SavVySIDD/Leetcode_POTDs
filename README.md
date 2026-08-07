@@ -590,6 +590,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0382-linked-list-random-node](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -615,6 +616,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2462-total-cost-to-hire-k-workers) |
