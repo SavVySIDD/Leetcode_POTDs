@@ -206,6 +206,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0930-binary-subarrays-with-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0992-subarrays-with-k-different-integers) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1207-unique-number-of-occurrences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -588,6 +589,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0328-odd-even-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
