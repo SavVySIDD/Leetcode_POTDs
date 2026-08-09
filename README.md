@@ -916,4 +916,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0382-linked-list-random-node) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
