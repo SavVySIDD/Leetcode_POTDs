@@ -1,6 +1,7 @@
 class Solution {
+    // TC: O(n3)
     // P -> Person; 1-> alice, 2->bob
-    int dp[3][101][101];
+    int dp[3][101][101]; //2*(n+1)*(n+1) = O(n2) * O(n){for the internal for loop}
     int solve(vector<int>& piles, int ind, int M, int P){
         int n = piles.size();
         if(ind>=piles.size()) return 0;
