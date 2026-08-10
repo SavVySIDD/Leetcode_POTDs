@@ -933,4 +933,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
