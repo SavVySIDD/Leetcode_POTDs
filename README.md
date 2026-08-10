@@ -349,6 +349,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
@@ -397,6 +398,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1463-cherry-pickup-ii) |
+| [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -896,18 +898,21 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -920,4 +925,12 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0023-merge-k-sorted-lists) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
