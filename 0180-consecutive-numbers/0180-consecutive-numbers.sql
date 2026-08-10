@@ -5,6 +5,6 @@ FROM (
         LAG(num, 1) OVER (ORDER BY id) AS prev1,
         LAG(num, 2) OVER (ORDER BY id) AS prev2
     FROM Logs
-) t
+) temp
 WHERE num = prev1
   AND num = prev2;
