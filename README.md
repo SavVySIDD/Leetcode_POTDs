@@ -938,4 +938,5 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0175-combine-two-tables](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
