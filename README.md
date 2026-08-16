@@ -863,6 +863,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0295-find-median-from-data-stream](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0933-number-of-recent-calls) |
 ## Iterator
 |  |
 | ------- |
@@ -876,6 +877,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0933-number-of-recent-calls) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -957,4 +959,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0183-customers-who-never-order](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0185-department-top-three-salaries) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
