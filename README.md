@@ -95,6 +95,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1765-map-of-highest-peak) |
@@ -363,6 +364,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1140-stone-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
 | [2029-stone-game-ix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -413,6 +415,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1563-stone-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -916,6 +919,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1140-stone-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
