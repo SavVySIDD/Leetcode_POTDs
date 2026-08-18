@@ -2,7 +2,6 @@ class Solution {
 public:
     int largestInteger(vector<int>& nums, int k) {
         int n = nums.size();
-        if(n==1) return nums[0];
         unordered_map<int,int>mp;
         for(auto&it:nums){
             mp[it]++;
