@@ -20,9 +20,9 @@ public:
                 return !bookedSeats.count(seats);
             };
 
-            bool grpA = isAvailable(2) && isAvailable(3) && isAvailable(4) & isAvailable(5);
-            bool grpB = isAvailable(4) && isAvailable(5) && isAvailable(6) & isAvailable(7);
-            bool grpC = isAvailable(6) && isAvailable(7) && isAvailable(8) & isAvailable(9);
+            bool grpA = isAvailable(2) && isAvailable(3) && isAvailable(4) && isAvailable(5);
+            bool grpB = isAvailable(4) && isAvailable(5) && isAvailable(6) && isAvailable(7);
+            bool grpC = isAvailable(6) && isAvailable(7) && isAvailable(8) && isAvailable(9);
 
             if(grpA && grpC)
                 result += 2;
