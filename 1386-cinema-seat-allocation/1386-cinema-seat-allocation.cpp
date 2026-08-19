@@ -12,21 +12,21 @@ public:
             mp[row].insert(seat);
         }
 
-        int result = (n - mp.size()) * 2;
+        int result = (n - mp.size()) * 2; // complete empty rows directly fill 2 groups
 
         for(auto& [row, bookedSeats] : mp) {
 
-            auto isAvailable = [&](int seat) {
-                return bookedSeats.find(seat) == bookedSeats.end();
+            auto isAvailable = [&](int seats){
+                return !bookedSeats.count(seats);
             };
 
-            bool graupA = isAvailable(2) && isAvailable(3) && isAvailable(4) & isAvailable(5);
-            bool graupB = isAvailable(4) && isAvailable(5) && isAvailable(6) & isAvailable(7);
-            bool graupC = isAvailable(6) && isAvailable(7) && isAvailable(8) & isAvailable(9);
+            bool grpA = isAvailable(2) && isAvailable(3) && isAvailable(4) & isAvailable(5);
+            bool grpB = isAvailable(4) && isAvailable(5) && isAvailable(6) & isAvailable(7);
+            bool grpC = isAvailable(6) && isAvailable(7) && isAvailable(8) & isAvailable(9);
 
-            if(graupA && graupC)
+            if(grpA && grpC)
                 result += 2;
-            else if(graupA || graupB || graupC)
+            else if(grpA || grpB || grpC)
                 result += 1;
 
         }
