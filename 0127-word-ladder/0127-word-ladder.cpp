@@ -1,30 +1,30 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        queue<pair<string,int>> q;
-        q.push({beginWord,1});
-        // set gives O(1) lookup
-        unordered_set<string>st(wordList.begin(),wordList.end());
+        unordered_set<string>st;
+        for(auto&it:wordList){
+            st.insert(it);
+        }
         st.erase(beginWord);
-
+        queue<pair<string,int>>q;
+        q.push({beginWord,1});
         while(!q.empty()){
             string word = q.front().first;
             int seq = q.front().second;
             q.pop();
-
-            if(word == endWord) return seq;
+            if(word == endWord){
+                return seq;
+            }
             for(int i=0;i<word.size();i++){
                 char original = word[i];
-                //checking every combination
-                for(char ch = 'a'; ch<='z'; ch++){
-                    word[i] = ch;
-                    //if it exists in the set
-                    if(st.find(word)!=st.end()){
+                for(char c= 'a';c<='z';c++){
+                    word[i] = c;
+                    if(st.count(word)){
                         st.erase(word);
                         q.push({word,seq+1});
                     }
                 }
-                word[i] = original;
+                word[i]=original;
             }
         }
         return 0;
