@@ -987,4 +987,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1114-print-in-order) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
