@@ -116,6 +116,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -833,6 +834,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
