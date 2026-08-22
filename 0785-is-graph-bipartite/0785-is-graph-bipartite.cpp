@@ -6,7 +6,7 @@ private:
             if(colors[it]==-1){
                 if(!dfs(it,!color,graph,colors)) return false;
             }
-            if(colors[it]==color) return false;
+            if(colors[it]==color) return false; // It's colored with the same color hence cannot be bipartite graph
         }
         return true;
     }
