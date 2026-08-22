@@ -1003,4 +1003,12 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
