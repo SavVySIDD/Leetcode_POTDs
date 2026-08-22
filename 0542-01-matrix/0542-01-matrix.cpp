@@ -1,13 +1,12 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        vector<vector<int>> grid = mat;
-        int n = grid.size(); int m = grid[0].size();
+        int n = mat.size(); int m = mat[0].size();
         queue<pair<pair<int,int>,int>> q;
         vector<vector<int>> res(n,vector<int>(m));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]==0){
+                if(mat[i][j]==0){
                     q.push({{i,j},0});
                     res[i][j] = 0;
                 }
