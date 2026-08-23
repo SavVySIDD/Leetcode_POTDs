@@ -261,6 +261,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1657-determine-if-two-strings-are-close) |
+| [1927-sum-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -310,6 +311,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1386-cinema-seat-allocation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2029-stone-game-ix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -376,6 +378,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -940,6 +943,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1406-stone-game-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
