@@ -1,5 +1,5 @@
 class Solution {
-    bool isLexicographicallySmall(string s,int left,int sIdx){
+    bool isLexicographicallySmall(string& s,int left,int sIdx){
         int tind1 = sIdx, tind2 = left;
         while(s[tind1]==s[tind2]){
             tind1++;
