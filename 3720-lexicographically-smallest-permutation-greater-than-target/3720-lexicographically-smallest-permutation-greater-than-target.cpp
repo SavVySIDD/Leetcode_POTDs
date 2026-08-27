@@ -1,51 +1,36 @@
 class Solution {
-public:
-    string result = "";
-
-    bool solve(string& curr, vector<int>& count, string& target, int i, bool greater) {
-        if(i == target.length()) {
-            if(greater) {
-                result = curr;
+    string res = "";
+    bool solve(string& curr,vector<int>&hash,string& target, int ind, bool greater){
+        if(ind == target.size()){
+            if(greater){
+                res = curr;
                 return true;
             }
             return false;
         }
-
-        for(char ch = 'a'; ch <= 'z'; ch++) {
-            if(count[ch-'a'] == 0)
-                continue;
-            
-            if(greater == false && ch < target[i])
-                continue;
-            
+        for(char ch = 'a';ch<='z';ch++){
+            if(hash[ch-'a']==0) continue;
+            if(ch<target[ind] && !greater) continue;
 
             curr.push_back(ch);
-            count[ch-'a']--;
-
-            bool isGreater = greater || ch > target[i];
-
-            if(solve(curr, count, target, i+1, isGreater)) {
-                return true;
+            hash[ch-'a']--;
+            bool isGreater = greater || ch > target[ind];
+            if(solve(curr,hash,target,ind+1,isGreater)){
+                return true; //Lexicographically First
             }
-
             curr.pop_back();
-            count[ch-'a']++;
+            hash[ch-'a']++;
         }
-
         return false;
     }
-
+public:
     string lexGreaterPermutation(string s, string target) {
-        vector<int> count(26, 0);
-
-        for(char &ch : s)
-            count[ch-'a']++;
-        
+        vector<int>hash(26,0);
+        for(char& c:s){
+            hash[c-'a']++;
+        }
         string curr;
-
-        solve(curr, count, target, 0, false);
-
-        return result;
+        solve(curr,hash,target,0,false);
+        return res;
     }
 };
-
