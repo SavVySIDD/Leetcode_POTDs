@@ -46,6 +46,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0198-house-robber](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0283-move-zeroes) |
@@ -891,6 +892,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0039-combination-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
