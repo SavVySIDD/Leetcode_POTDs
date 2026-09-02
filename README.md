@@ -254,6 +254,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
@@ -416,6 +417,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0045-jump-game-ii) |
@@ -881,6 +883,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -1044,4 +1047,8 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
