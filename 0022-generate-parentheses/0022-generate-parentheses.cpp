@@ -4,8 +4,8 @@ class Solution {
             res.push_back(curr);
             return;
         }
-        if(open<n)solve(n,res,open+1,close,curr+'(');
-        if(close<open)solve(n,res,open,close+1,curr+')');
+        if(open<n)      solve(n,res,open+1,close,curr+'(');
+        if(close<open)  solve(n,res,open,close+1,curr+')');
         return;
     }
 public:
