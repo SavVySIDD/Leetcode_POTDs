@@ -8,6 +8,7 @@ class Solution {
         if(ind>=candidates.size() || target<0){
             return;
         }
+        if(candidates[ind]>target) return;
 
         //take the current candidate
         temp.push_back(candidates[ind]);
@@ -20,6 +21,7 @@ class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<int>temp;
+        sort(begin(candidates),end(candidates));
         solve(candidates,target,temp,0);
         return res;
     }
