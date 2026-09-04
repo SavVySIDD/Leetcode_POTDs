@@ -13,13 +13,6 @@ public:
             nse[i] = min(nse[i+1],nums[i]);
         }
         for(int i=0;i<n;i++){
-            cout << nse[i] << " ";
-        }
-        cout << '\n';
-        for(int i=0;i<n;i++){
-            cout << pge[i] << " ";
-        }
-        for(int i=0;i<n;i++){
             int instability = pge[i]-nse[i];
             if(instability <= k) return i;
         }
