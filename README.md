@@ -268,6 +268,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0022-generate-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0394-decode-string) |
@@ -438,6 +439,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0063-unique-paths-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0124-binary-tree-maximum-path-sum) |
