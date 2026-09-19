@@ -18,6 +18,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0040-combination-sum-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0055-jump-game) |
@@ -410,6 +411,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0380-insert-delete-getrandom-o1) |
@@ -627,6 +629,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0064-minimum-path-sum) |
