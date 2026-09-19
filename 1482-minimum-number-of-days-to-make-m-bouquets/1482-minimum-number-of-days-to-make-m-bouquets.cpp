@@ -6,9 +6,9 @@ class Solution {
         for(int i=0;i<n;i++){   
             if(bloomDay[i]>t){
                 res+= count/k;
-                count =0;
+                count =0; //we need consecutive
             }
-            else
+            else //bloomDay[i]<=t
             count++;
         }
         res+=count/k; //Iwas missing this last segment
