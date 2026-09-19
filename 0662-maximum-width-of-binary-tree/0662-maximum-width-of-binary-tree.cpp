@@ -2,10 +2,9 @@ class Solution {
 public:
     typedef unsigned long long ll;
     int widthOfBinaryTree(TreeNode* root) {
-        if(!root)   
-            return 0;
+        if(!root) return 0;
         queue<pair<TreeNode*, ll>> que;
-        que.push({root, 0});
+        que.push({root, 0}); // {node, index}
         ll maxWidth = 0;
         
         while(!que.empty()) {
@@ -16,7 +15,7 @@ public:
             
             while(n--) {
                 TreeNode* curr = que.front().first;
-                ll d          = que.front().second;
+                ll d           = que.front().second;
                 que.pop();
                 if(curr->left) {
                     que.push({curr->left, 2*d+1});
