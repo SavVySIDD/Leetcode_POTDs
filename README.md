@@ -252,6 +252,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0930-binary-subarrays-with-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1207-unique-number-of-occurrences) |
@@ -298,6 +299,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0678-valid-parenthesis-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -392,6 +394,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0628-maximum-product-of-three-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1331-rank-transform-of-an-array) |
@@ -594,6 +597,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0994-rotting-oranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1631-path-with-minimum-effort) |
@@ -784,6 +788,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0907-sum-of-subarray-minimums](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2390-removing-stars-from-a-string) |
@@ -949,6 +954,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0090-subsets-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
