@@ -303,6 +303,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -792,6 +793,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2390-removing-stars-from-a-string) |
@@ -1125,6 +1127,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Geometry
 |  |
 | ------- |
