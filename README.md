@@ -288,6 +288,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0003-longest-substring-without-repeating-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0115-distinct-subsequences) |
@@ -473,6 +474,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0045-jump-game-ii) |
@@ -779,6 +781,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1134,6 +1137,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
