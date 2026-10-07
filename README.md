@@ -293,6 +293,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0076-minimum-window-substring](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0402-remove-k-digits) |
@@ -594,6 +595,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0200-number-of-islands](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0547-number-of-provinces) |
@@ -971,6 +973,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0078-subsets](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3348-smallest-divisible-digit-product-ii) |
