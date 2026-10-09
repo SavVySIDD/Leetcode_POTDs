@@ -313,6 +313,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -372,6 +373,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1927-sum-game) |
@@ -810,6 +812,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1096-brace-expansion-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1151,6 +1154,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1021-remove-outermost-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
