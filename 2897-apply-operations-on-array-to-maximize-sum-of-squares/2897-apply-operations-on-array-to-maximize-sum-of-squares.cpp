@@ -4,7 +4,7 @@ public:
         int bitCounts[31] = {0};
         for (int num : nums) {
             for (int i = 0; i <= 30; ++i) {
-                if ((num >> i) & 1) {
+                if ((1 << i) & num) {
                     bitCounts[i]++;
                 }
             }
