@@ -128,6 +128,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [2462-total-cost-to-hire-k-workers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -270,6 +271,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1657-determine-if-two-strings-are-close](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -385,6 +387,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -542,6 +545,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0136-single-number](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3514-number-of-unique-xor-triplets-ii) |
