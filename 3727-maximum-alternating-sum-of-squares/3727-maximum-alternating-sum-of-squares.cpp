@@ -1,4 +1,4 @@
-//T.C : O(nlogn)
+//T.C : Average O(n) because of nth_element
 //S.C : O(1)
 class Solution {
 public:
@@ -9,7 +9,7 @@ public:
             nums[i] = nums[i]*nums[i];
         }
 
-        sort(begin(nums), end(nums));
+        nth_element(begin(nums), begin(nums)+n/2, end(nums));
 
         long long largeHalf = accumulate(begin(nums)+n/2, end(nums), 0LL);
         long long smallHalf = accumulate(begin(nums), begin(nums)+n/2, 0LL);
