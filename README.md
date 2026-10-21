@@ -343,6 +343,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
