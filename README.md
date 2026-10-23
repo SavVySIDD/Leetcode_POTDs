@@ -148,6 +148,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3620-network-recovery-pathways) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -562,6 +563,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
