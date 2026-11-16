@@ -341,6 +341,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1015,6 +1016,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0735-asteroid-collision](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3069-distribute-elements-into-two-arrays-i) |
