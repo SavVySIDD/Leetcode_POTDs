@@ -142,6 +142,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -295,6 +296,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -351,6 +353,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -930,6 +933,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
 | ------- |
@@ -965,6 +969,7 @@ Solving Leetcode Daily Problems to keep in touch with the DSA.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SavVySIDD/Leetcode_POTDs/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
